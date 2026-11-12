@@ -37,4 +37,4 @@ Python · PyTorch · ROS · MuJoCo · Linux
 我的个人网站https://linx29853.github.io/
 
 
-![全年立体贡献日历](./metrics.plugin.isocalendar.fullyear.svg)
+![最近半年立体贡献日历](./metrics.plugin.isocalendar.fullyear.svg)
