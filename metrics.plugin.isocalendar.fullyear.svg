@@ -1,17 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280" role="img" aria-labelledby="title desc">
 <title id="title">Recent 90 days of GitHub contributions</title>
-<desc id="desc">2026-08-17 to 2026-11-14: 169 contributions, 1.88 per day. Public GitHub contribution calendar.</desc>
+<desc id="desc">2026-08-18 to 2026-11-15: 170 contributions, 1.89 per day. Public GitHub contribution calendar.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif;fill:#57606a}.heading{fill:#0969da;font-size:16px}.small{font-size:11px}.value{font-size:21px;fill:#24292f}@media(prefers-color-scheme:dark){text{fill:#8b949e}.heading{fill:#58a6ff}.value{fill:#c9d1d9}}</style>
 <text x="16" y="23" class="heading">GitHub contributions · Last 90 days</text>
-<text x="16" y="43" class="small">2026-08-17 — 2026-11-14 · 169 contributions</text>
+<text x="16" y="43" class="small">2026-08-18 — 2026-11-15 · 170 contributions</text>
 
-<g><title>2026-08-17: 0 contributions</title>
-<path fill="#ebedf0" d="M88,77.0 l6,-3 6,3 -6,3 Z"/>
-<path fill="#ebedf0" d="M88,77.0 l6,3 v0.0 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M88,77.0 l6,3 v0.0 l-6,-3 Z"/>
-<path fill="#ebedf0" d="M94,80.0 l6,-3 v0.0 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M94,80.0 l6,-3 v0.0 l-6,3 Z"/>
-</g>
 <g><title>2026-08-18: 0 contributions</title>
 <path fill="#ebedf0" d="M76,84.0 l6,-3 6,3 -6,3 Z"/>
 <path fill="#ebedf0" d="M76,84.0 l6,3 v0.0 l-6,-3 Z"/>
@@ -62,25 +55,25 @@
 <path fill="#000" opacity=".35" d="M117,88.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-08-25: 5 contributions</title>
-<path fill="#40c463" d="M99,83.05263157894737 l6,-3 6,3 -6,3 Z"/>
-<path fill="#40c463" d="M99,83.05263157894737 l6,3 v8.947368421052632 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M99,83.05263157894737 l6,3 v8.947368421052632 l-6,-3 Z"/>
-<path fill="#40c463" d="M105,86.05263157894737 l6,-3 v8.947368421052632 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M105,86.05263157894737 l6,-3 v8.947368421052632 l-6,3 Z"/>
+<path fill="#9be9a8" d="M99,83.5 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M99,83.5 l6,3 v8.5 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M99,83.5 l6,3 v8.5 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M105,86.5 l6,-3 v8.5 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M105,86.5 l6,-3 v8.5 l-6,3 Z"/>
 </g>
 <g><title>2026-08-26: 10 contributions</title>
-<path fill="#30a14e" d="M87,81.10526315789474 l6,-3 6,3 -6,3 Z"/>
-<path fill="#30a14e" d="M87,81.10526315789474 l6,3 v17.894736842105264 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M87,81.10526315789474 l6,3 v17.894736842105264 l-6,-3 Z"/>
-<path fill="#30a14e" d="M93,84.10526315789474 l6,-3 v17.894736842105264 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M93,84.10526315789474 l6,-3 v17.894736842105264 l-6,3 Z"/>
+<path fill="#40c463" d="M87,82.0 l6,-3 6,3 -6,3 Z"/>
+<path fill="#40c463" d="M87,82.0 l6,3 v17.0 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M87,82.0 l6,3 v17.0 l-6,-3 Z"/>
+<path fill="#40c463" d="M93,85.0 l6,-3 v17.0 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M93,85.0 l6,-3 v17.0 l-6,3 Z"/>
 </g>
 <g><title>2026-08-27: 4 contributions</title>
-<path fill="#9be9a8" d="M75,98.84210526315789 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M75,98.84210526315789 l6,3 v7.157894736842104 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M75,98.84210526315789 l6,3 v7.157894736842104 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M81,101.84210526315789 l6,-3 v7.157894736842104 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M81,101.84210526315789 l6,-3 v7.157894736842104 l-6,3 Z"/>
+<path fill="#9be9a8" d="M75,99.2 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M75,99.2 l6,3 v6.800000000000001 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M75,99.2 l6,3 v6.800000000000001 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M81,102.2 l6,-3 v6.800000000000001 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M81,102.2 l6,-3 v6.800000000000001 l-6,3 Z"/>
 </g>
 <g><title>2026-08-28: 0 contributions</title>
 <path fill="#ebedf0" d="M63,113.0 l6,-3 6,3 -6,3 Z"/>
@@ -90,32 +83,32 @@
 <path fill="#000" opacity=".35" d="M69,116.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-08-29: 3 contributions</title>
-<path fill="#9be9a8" d="M51,114.63157894736842 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M51,114.63157894736842 l6,3 v5.368421052631579 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M51,114.63157894736842 l6,3 v5.368421052631579 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M57,117.63157894736842 l6,-3 v5.368421052631579 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M57,117.63157894736842 l6,-3 v5.368421052631579 l-6,3 Z"/>
+<path fill="#9be9a8" d="M51,114.9 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M51,114.9 l6,3 v5.1 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M51,114.9 l6,3 v5.1 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M57,117.9 l6,-3 v5.1 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M57,117.9 l6,-3 v5.1 l-6,3 Z"/>
 </g>
 <g><title>2026-08-30: 2 contributions</title>
-<path fill="#9be9a8" d="M146,82.42105263157895 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M146,82.42105263157895 l6,3 v3.578947368421052 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M146,82.42105263157895 l6,3 v3.578947368421052 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M152,85.42105263157895 l6,-3 v3.578947368421052 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M152,85.42105263157895 l6,-3 v3.578947368421052 l-6,3 Z"/>
+<path fill="#9be9a8" d="M146,82.6 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M146,82.6 l6,3 v3.4000000000000004 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M146,82.6 l6,3 v3.4000000000000004 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M152,85.6 l6,-3 v3.4000000000000004 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M152,85.6 l6,-3 v3.4000000000000004 l-6,3 Z"/>
 </g>
 <g><title>2026-08-31: 7 contributions</title>
-<path fill="#40c463" d="M134,80.47368421052632 l6,-3 6,3 -6,3 Z"/>
-<path fill="#40c463" d="M134,80.47368421052632 l6,3 v12.526315789473683 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M134,80.47368421052632 l6,3 v12.526315789473683 l-6,-3 Z"/>
-<path fill="#40c463" d="M140,83.47368421052632 l6,-3 v12.526315789473683 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M140,83.47368421052632 l6,-3 v12.526315789473683 l-6,3 Z"/>
+<path fill="#40c463" d="M134,81.1 l6,-3 6,3 -6,3 Z"/>
+<path fill="#40c463" d="M134,81.1 l6,3 v11.899999999999999 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M134,81.1 l6,3 v11.899999999999999 l-6,-3 Z"/>
+<path fill="#40c463" d="M140,84.1 l6,-3 v11.899999999999999 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M140,84.1 l6,-3 v11.899999999999999 l-6,3 Z"/>
 </g>
 <g><title>2026-09-01: 2 contributions</title>
-<path fill="#9be9a8" d="M122,96.42105263157895 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M122,96.42105263157895 l6,3 v3.578947368421052 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M122,96.42105263157895 l6,3 v3.578947368421052 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M128,99.42105263157895 l6,-3 v3.578947368421052 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M128,99.42105263157895 l6,-3 v3.578947368421052 l-6,3 Z"/>
+<path fill="#9be9a8" d="M122,96.6 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M122,96.6 l6,3 v3.4000000000000004 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M122,96.6 l6,3 v3.4000000000000004 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M128,99.6 l6,-3 v3.4000000000000004 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M128,99.6 l6,-3 v3.4000000000000004 l-6,3 Z"/>
 </g>
 <g><title>2026-09-02: 0 contributions</title>
 <path fill="#ebedf0" d="M110,107.0 l6,-3 6,3 -6,3 Z"/>
@@ -153,18 +146,18 @@
 <path fill="#000" opacity=".35" d="M175,97.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-09-07: 7 contributions</title>
-<path fill="#40c463" d="M157,88.47368421052632 l6,-3 6,3 -6,3 Z"/>
-<path fill="#40c463" d="M157,88.47368421052632 l6,3 v12.526315789473683 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M157,88.47368421052632 l6,3 v12.526315789473683 l-6,-3 Z"/>
-<path fill="#40c463" d="M163,91.47368421052632 l6,-3 v12.526315789473683 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M163,91.47368421052632 l6,-3 v12.526315789473683 l-6,3 Z"/>
+<path fill="#40c463" d="M157,89.1 l6,-3 6,3 -6,3 Z"/>
+<path fill="#40c463" d="M157,89.1 l6,3 v11.899999999999999 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M157,89.1 l6,3 v11.899999999999999 l-6,-3 Z"/>
+<path fill="#40c463" d="M163,92.1 l6,-3 v11.899999999999999 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M163,92.1 l6,-3 v11.899999999999999 l-6,3 Z"/>
 </g>
 <g><title>2026-09-08: 1 contributions</title>
-<path fill="#9be9a8" d="M145,106.21052631578948 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M145,106.21052631578948 l6,3 v1.789473684210526 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M145,106.21052631578948 l6,3 v1.789473684210526 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M151,109.21052631578948 l6,-3 v1.789473684210526 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M151,109.21052631578948 l6,-3 v1.789473684210526 l-6,3 Z"/>
+<path fill="#9be9a8" d="M145,106.3 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M145,106.3 l6,3 v1.7000000000000002 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M145,106.3 l6,3 v1.7000000000000002 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M151,109.3 l6,-3 v1.7000000000000002 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M151,109.3 l6,-3 v1.7000000000000002 l-6,3 Z"/>
 </g>
 <g><title>2026-09-09: 0 contributions</title>
 <path fill="#ebedf0" d="M133,115.0 l6,-3 6,3 -6,3 Z"/>
@@ -195,25 +188,25 @@
 <path fill="#000" opacity=".35" d="M103,139.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-09-13: 7 contributions</title>
-<path fill="#40c463" d="M192,89.47368421052632 l6,-3 6,3 -6,3 Z"/>
-<path fill="#40c463" d="M192,89.47368421052632 l6,3 v12.526315789473683 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M192,89.47368421052632 l6,3 v12.526315789473683 l-6,-3 Z"/>
-<path fill="#40c463" d="M198,92.47368421052632 l6,-3 v12.526315789473683 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M198,92.47368421052632 l6,-3 v12.526315789473683 l-6,3 Z"/>
+<path fill="#40c463" d="M192,90.1 l6,-3 6,3 -6,3 Z"/>
+<path fill="#40c463" d="M192,90.1 l6,3 v11.899999999999999 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M192,90.1 l6,3 v11.899999999999999 l-6,-3 Z"/>
+<path fill="#40c463" d="M198,93.1 l6,-3 v11.899999999999999 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M198,93.1 l6,-3 v11.899999999999999 l-6,3 Z"/>
 </g>
 <g><title>2026-09-14: 2 contributions</title>
-<path fill="#9be9a8" d="M180,105.42105263157895 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M180,105.42105263157895 l6,3 v3.578947368421052 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M180,105.42105263157895 l6,3 v3.578947368421052 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M186,108.42105263157895 l6,-3 v3.578947368421052 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M186,108.42105263157895 l6,-3 v3.578947368421052 l-6,3 Z"/>
+<path fill="#9be9a8" d="M180,105.6 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M180,105.6 l6,3 v3.4000000000000004 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M180,105.6 l6,3 v3.4000000000000004 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M186,108.6 l6,-3 v3.4000000000000004 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M186,108.6 l6,-3 v3.4000000000000004 l-6,3 Z"/>
 </g>
 <g><title>2026-09-15: 1 contributions</title>
-<path fill="#9be9a8" d="M168,114.21052631578948 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M168,114.21052631578948 l6,3 v1.789473684210526 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M168,114.21052631578948 l6,3 v1.789473684210526 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M174,117.21052631578948 l6,-3 v1.789473684210526 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M174,117.21052631578948 l6,-3 v1.789473684210526 l-6,3 Z"/>
+<path fill="#9be9a8" d="M168,114.3 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M168,114.3 l6,3 v1.7000000000000002 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M168,114.3 l6,3 v1.7000000000000002 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M174,117.3 l6,-3 v1.7000000000000002 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M174,117.3 l6,-3 v1.7000000000000002 l-6,3 Z"/>
 </g>
 <g><title>2026-09-16: 0 contributions</title>
 <path fill="#ebedf0" d="M156,123.0 l6,-3 6,3 -6,3 Z"/>
@@ -237,18 +230,18 @@
 <path fill="#000" opacity=".35" d="M138,140.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-09-19: 1 contributions</title>
-<path fill="#9be9a8" d="M120,142.21052631578948 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M120,142.21052631578948 l6,3 v1.789473684210526 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M120,142.21052631578948 l6,3 v1.789473684210526 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M126,145.21052631578948 l6,-3 v1.789473684210526 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M126,145.21052631578948 l6,-3 v1.789473684210526 l-6,3 Z"/>
+<path fill="#9be9a8" d="M120,142.3 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M120,142.3 l6,3 v1.7000000000000002 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M120,142.3 l6,3 v1.7000000000000002 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M126,145.3 l6,-3 v1.7000000000000002 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M126,145.3 l6,-3 v1.7000000000000002 l-6,3 Z"/>
 </g>
 <g><title>2026-09-20: 1 contributions</title>
-<path fill="#9be9a8" d="M215,108.21052631578948 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M215,108.21052631578948 l6,3 v1.789473684210526 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M215,108.21052631578948 l6,3 v1.789473684210526 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M221,111.21052631578948 l6,-3 v1.789473684210526 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M221,111.21052631578948 l6,-3 v1.789473684210526 l-6,3 Z"/>
+<path fill="#9be9a8" d="M215,108.3 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M215,108.3 l6,3 v1.7000000000000002 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M215,108.3 l6,3 v1.7000000000000002 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M221,111.3 l6,-3 v1.7000000000000002 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M221,111.3 l6,-3 v1.7000000000000002 l-6,3 Z"/>
 </g>
 <g><title>2026-09-21: 0 contributions</title>
 <path fill="#ebedf0" d="M203,117.0 l6,-3 6,3 -6,3 Z"/>
@@ -258,11 +251,11 @@
 <path fill="#000" opacity=".35" d="M209,120.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-09-22: 7 contributions</title>
-<path fill="#40c463" d="M191,111.47368421052632 l6,-3 6,3 -6,3 Z"/>
-<path fill="#40c463" d="M191,111.47368421052632 l6,3 v12.526315789473683 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M191,111.47368421052632 l6,3 v12.526315789473683 l-6,-3 Z"/>
-<path fill="#40c463" d="M197,114.47368421052632 l6,-3 v12.526315789473683 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M197,114.47368421052632 l6,-3 v12.526315789473683 l-6,3 Z"/>
+<path fill="#40c463" d="M191,112.1 l6,-3 6,3 -6,3 Z"/>
+<path fill="#40c463" d="M191,112.1 l6,3 v11.899999999999999 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M191,112.1 l6,3 v11.899999999999999 l-6,-3 Z"/>
+<path fill="#40c463" d="M197,115.1 l6,-3 v11.899999999999999 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M197,115.1 l6,-3 v11.899999999999999 l-6,3 Z"/>
 </g>
 <g><title>2026-09-23: 0 contributions</title>
 <path fill="#ebedf0" d="M179,131.0 l6,-3 6,3 -6,3 Z"/>
@@ -363,11 +356,11 @@
 <path fill="#000" opacity=".35" d="M243,143.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-10-07: 5 contributions</title>
-<path fill="#40c463" d="M225,138.05263157894737 l6,-3 6,3 -6,3 Z"/>
-<path fill="#40c463" d="M225,138.05263157894737 l6,3 v8.947368421052632 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M225,138.05263157894737 l6,3 v8.947368421052632 l-6,-3 Z"/>
-<path fill="#40c463" d="M231,141.05263157894737 l6,-3 v8.947368421052632 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M231,141.05263157894737 l6,-3 v8.947368421052632 l-6,3 Z"/>
+<path fill="#9be9a8" d="M225,138.5 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M225,138.5 l6,3 v8.5 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M225,138.5 l6,3 v8.5 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M231,141.5 l6,-3 v8.5 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M231,141.5 l6,-3 v8.5 l-6,3 Z"/>
 </g>
 <g><title>2026-10-08: 0 contributions</title>
 <path fill="#ebedf0" d="M213,154.0 l6,-3 6,3 -6,3 Z"/>
@@ -475,18 +468,18 @@
 <path fill="#000" opacity=".35" d="M265,173.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-10-23: 5 contributions</title>
-<path fill="#40c463" d="M247,168.05263157894737 l6,-3 6,3 -6,3 Z"/>
-<path fill="#40c463" d="M247,168.05263157894737 l6,3 v8.947368421052632 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M247,168.05263157894737 l6,3 v8.947368421052632 l-6,-3 Z"/>
-<path fill="#40c463" d="M253,171.05263157894737 l6,-3 v8.947368421052632 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M253,171.05263157894737 l6,-3 v8.947368421052632 l-6,3 Z"/>
+<path fill="#9be9a8" d="M247,168.5 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M247,168.5 l6,3 v8.5 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M247,168.5 l6,3 v8.5 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M253,171.5 l6,-3 v8.5 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M253,171.5 l6,-3 v8.5 l-6,3 Z"/>
 </g>
 <g><title>2026-10-24: 2 contributions</title>
-<path fill="#9be9a8" d="M235,180.42105263157896 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M235,180.42105263157896 l6,3 v3.578947368421052 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M235,180.42105263157896 l6,3 v3.578947368421052 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M241,183.42105263157896 l6,-3 v3.578947368421052 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M241,183.42105263157896 l6,-3 v3.578947368421052 l-6,3 Z"/>
+<path fill="#9be9a8" d="M235,180.6 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M235,180.6 l6,3 v3.4000000000000004 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M235,180.6 l6,3 v3.4000000000000004 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M241,183.6 l6,-3 v3.4000000000000004 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M241,183.6 l6,-3 v3.4000000000000004 l-6,3 Z"/>
 </g>
 <g><title>2026-10-25: 0 contributions</title>
 <path fill="#ebedf0" d="M330,150.0 l6,-3 6,3 -6,3 Z"/>
@@ -503,11 +496,11 @@
 <path fill="#000" opacity=".35" d="M324,160.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-10-27: 9 contributions</title>
-<path fill="#40c463" d="M306,147.89473684210526 l6,-3 6,3 -6,3 Z"/>
-<path fill="#40c463" d="M306,147.89473684210526 l6,3 v16.105263157894736 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M306,147.89473684210526 l6,3 v16.105263157894736 l-6,-3 Z"/>
-<path fill="#40c463" d="M312,150.89473684210526 l6,-3 v16.105263157894736 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M312,150.89473684210526 l6,-3 v16.105263157894736 l-6,3 Z"/>
+<path fill="#40c463" d="M306,148.7 l6,-3 6,3 -6,3 Z"/>
+<path fill="#40c463" d="M306,148.7 l6,3 v15.3 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M306,148.7 l6,3 v15.3 l-6,-3 Z"/>
+<path fill="#40c463" d="M312,151.7 l6,-3 v15.3 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M312,151.7 l6,-3 v15.3 l-6,3 Z"/>
 </g>
 <g><title>2026-10-28: 0 contributions</title>
 <path fill="#ebedf0" d="M294,171.0 l6,-3 6,3 -6,3 Z"/>
@@ -517,11 +510,11 @@
 <path fill="#000" opacity=".35" d="M300,174.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-10-29: 5 contributions</title>
-<path fill="#40c463" d="M282,169.05263157894737 l6,-3 6,3 -6,3 Z"/>
-<path fill="#40c463" d="M282,169.05263157894737 l6,3 v8.947368421052632 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M282,169.05263157894737 l6,3 v8.947368421052632 l-6,-3 Z"/>
-<path fill="#40c463" d="M288,172.05263157894737 l6,-3 v8.947368421052632 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M288,172.05263157894737 l6,-3 v8.947368421052632 l-6,3 Z"/>
+<path fill="#9be9a8" d="M282,169.5 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M282,169.5 l6,3 v8.5 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M282,169.5 l6,3 v8.5 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M288,172.5 l6,-3 v8.5 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M288,172.5 l6,-3 v8.5 l-6,3 Z"/>
 </g>
 <g><title>2026-10-30: 0 contributions</title>
 <path fill="#ebedf0" d="M270,185.0 l6,-3 6,3 -6,3 Z"/>
@@ -545,25 +538,25 @@
 <path fill="#000" opacity=".35" d="M359,161.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-11-02: 3 contributions</title>
-<path fill="#9be9a8" d="M341,159.6315789473684 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M341,159.6315789473684 l6,3 v5.368421052631579 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M341,159.6315789473684 l6,3 v5.368421052631579 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M347,162.6315789473684 l6,-3 v5.368421052631579 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M347,162.6315789473684 l6,-3 v5.368421052631579 l-6,3 Z"/>
+<path fill="#9be9a8" d="M341,159.9 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M341,159.9 l6,3 v5.1 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M341,159.9 l6,3 v5.1 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M347,162.9 l6,-3 v5.1 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M347,162.9 l6,-3 v5.1 l-6,3 Z"/>
 </g>
 <g><title>2026-11-03: 9 contributions</title>
-<path fill="#40c463" d="M329,155.89473684210526 l6,-3 6,3 -6,3 Z"/>
-<path fill="#40c463" d="M329,155.89473684210526 l6,3 v16.105263157894736 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M329,155.89473684210526 l6,3 v16.105263157894736 l-6,-3 Z"/>
-<path fill="#40c463" d="M335,158.89473684210526 l6,-3 v16.105263157894736 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M335,158.89473684210526 l6,-3 v16.105263157894736 l-6,3 Z"/>
+<path fill="#40c463" d="M329,156.7 l6,-3 6,3 -6,3 Z"/>
+<path fill="#40c463" d="M329,156.7 l6,3 v15.3 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M329,156.7 l6,3 v15.3 l-6,-3 Z"/>
+<path fill="#40c463" d="M335,159.7 l6,-3 v15.3 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M335,159.7 l6,-3 v15.3 l-6,3 Z"/>
 </g>
 <g><title>2026-11-04: 1 contributions</title>
-<path fill="#9be9a8" d="M317,177.21052631578948 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M317,177.21052631578948 l6,3 v1.789473684210526 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M317,177.21052631578948 l6,3 v1.789473684210526 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M323,180.21052631578948 l6,-3 v1.789473684210526 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M323,180.21052631578948 l6,-3 v1.789473684210526 l-6,3 Z"/>
+<path fill="#9be9a8" d="M317,177.3 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M317,177.3 l6,3 v1.7000000000000002 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M317,177.3 l6,3 v1.7000000000000002 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M323,180.3 l6,-3 v1.7000000000000002 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M323,180.3 l6,-3 v1.7000000000000002 l-6,3 Z"/>
 </g>
 <g><title>2026-11-05: 0 contributions</title>
 <path fill="#ebedf0" d="M305,186.0 l6,-3 6,3 -6,3 Z"/>
@@ -573,18 +566,18 @@
 <path fill="#000" opacity=".35" d="M311,189.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-11-06: 17 contributions</title>
-<path fill="#216e39" d="M293,162.57894736842104 l6,-3 6,3 -6,3 Z"/>
-<path fill="#216e39" d="M293,162.57894736842104 l6,3 v30.42105263157895 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M293,162.57894736842104 l6,3 v30.42105263157895 l-6,-3 Z"/>
-<path fill="#216e39" d="M299,165.57894736842104 l6,-3 v30.42105263157895 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M299,165.57894736842104 l6,-3 v30.42105263157895 l-6,3 Z"/>
+<path fill="#216e39" d="M293,164.1 l6,-3 6,3 -6,3 Z"/>
+<path fill="#216e39" d="M293,164.1 l6,3 v28.9 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M293,164.1 l6,3 v28.9 l-6,-3 Z"/>
+<path fill="#216e39" d="M299,167.1 l6,-3 v28.9 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M299,167.1 l6,-3 v28.9 l-6,3 Z"/>
 </g>
 <g><title>2026-11-07: 3 contributions</title>
-<path fill="#9be9a8" d="M281,194.6315789473684 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M281,194.6315789473684 l6,3 v5.368421052631579 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M281,194.6315789473684 l6,3 v5.368421052631579 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M287,197.6315789473684 l6,-3 v5.368421052631579 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M287,197.6315789473684 l6,-3 v5.368421052631579 l-6,3 Z"/>
+<path fill="#9be9a8" d="M281,194.9 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M281,194.9 l6,3 v5.1 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M281,194.9 l6,3 v5.1 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M287,197.9 l6,-3 v5.1 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M287,197.9 l6,-3 v5.1 l-6,3 Z"/>
 </g>
 <g><title>2026-11-08: 0 contributions</title>
 <path fill="#ebedf0" d="M376,166.0 l6,-3 6,3 -6,3 Z"/>
@@ -594,11 +587,11 @@
 <path fill="#000" opacity=".35" d="M382,169.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-11-09: 3 contributions</title>
-<path fill="#9be9a8" d="M364,167.6315789473684 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M364,167.6315789473684 l6,3 v5.368421052631579 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M364,167.6315789473684 l6,3 v5.368421052631579 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M370,170.6315789473684 l6,-3 v5.368421052631579 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M370,170.6315789473684 l6,-3 v5.368421052631579 l-6,3 Z"/>
+<path fill="#9be9a8" d="M364,167.9 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M364,167.9 l6,3 v5.1 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M364,167.9 l6,3 v5.1 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M370,170.9 l6,-3 v5.1 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M370,170.9 l6,-3 v5.1 l-6,3 Z"/>
 </g>
 <g><title>2026-11-10: 0 contributions</title>
 <path fill="#ebedf0" d="M352,180.0 l6,-3 6,3 -6,3 Z"/>
@@ -608,35 +601,42 @@
 <path fill="#000" opacity=".35" d="M358,183.0 l6,-3 v0.0 l-6,3 Z"/>
 </g>
 <g><title>2026-11-11: 8 contributions</title>
-<path fill="#40c463" d="M340,172.68421052631578 l6,-3 6,3 -6,3 Z"/>
-<path fill="#40c463" d="M340,172.68421052631578 l6,3 v14.315789473684209 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M340,172.68421052631578 l6,3 v14.315789473684209 l-6,-3 Z"/>
-<path fill="#40c463" d="M346,175.68421052631578 l6,-3 v14.315789473684209 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M346,175.68421052631578 l6,-3 v14.315789473684209 l-6,3 Z"/>
+<path fill="#40c463" d="M340,173.4 l6,-3 6,3 -6,3 Z"/>
+<path fill="#40c463" d="M340,173.4 l6,3 v13.600000000000001 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M340,173.4 l6,3 v13.600000000000001 l-6,-3 Z"/>
+<path fill="#40c463" d="M346,176.4 l6,-3 v13.600000000000001 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M346,176.4 l6,-3 v13.600000000000001 l-6,3 Z"/>
 </g>
 <g><title>2026-11-12: 19 contributions</title>
-<path fill="#216e39" d="M328,160.0 l6,-3 6,3 -6,3 Z"/>
-<path fill="#216e39" d="M328,160.0 l6,3 v34.0 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M328,160.0 l6,3 v34.0 l-6,-3 Z"/>
-<path fill="#216e39" d="M334,163.0 l6,-3 v34.0 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M334,163.0 l6,-3 v34.0 l-6,3 Z"/>
+<path fill="#216e39" d="M328,161.7 l6,-3 6,3 -6,3 Z"/>
+<path fill="#216e39" d="M328,161.7 l6,3 v32.3 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M328,161.7 l6,3 v32.3 l-6,-3 Z"/>
+<path fill="#216e39" d="M334,164.7 l6,-3 v32.3 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M334,164.7 l6,-3 v32.3 l-6,3 Z"/>
 </g>
 <g><title>2026-11-13: 1 contributions</title>
-<path fill="#9be9a8" d="M316,199.21052631578948 l6,-3 6,3 -6,3 Z"/>
-<path fill="#9be9a8" d="M316,199.21052631578948 l6,3 v1.789473684210526 l-6,-3 Z"/>
-<path fill="#000" opacity=".18" d="M316,199.21052631578948 l6,3 v1.789473684210526 l-6,-3 Z"/>
-<path fill="#9be9a8" d="M322,202.21052631578948 l6,-3 v1.789473684210526 l-6,3 Z"/>
-<path fill="#000" opacity=".35" d="M322,202.21052631578948 l6,-3 v1.789473684210526 l-6,3 Z"/>
+<path fill="#9be9a8" d="M316,199.3 l6,-3 6,3 -6,3 Z"/>
+<path fill="#9be9a8" d="M316,199.3 l6,3 v1.7000000000000002 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M316,199.3 l6,3 v1.7000000000000002 l-6,-3 Z"/>
+<path fill="#9be9a8" d="M322,202.3 l6,-3 v1.7000000000000002 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M322,202.3 l6,-3 v1.7000000000000002 l-6,3 Z"/>
 </g>
-<g><title>2026-11-14: 19 contributions</title>
+<g><title>2026-11-14: 20 contributions</title>
 <path fill="#216e39" d="M304,174.0 l6,-3 6,3 -6,3 Z"/>
 <path fill="#216e39" d="M304,174.0 l6,3 v34.0 l-6,-3 Z"/>
 <path fill="#000" opacity=".18" d="M304,174.0 l6,3 v34.0 l-6,-3 Z"/>
 <path fill="#216e39" d="M310,177.0 l6,-3 v34.0 l-6,3 Z"/>
 <path fill="#000" opacity=".35" d="M310,177.0 l6,-3 v34.0 l-6,3 Z"/>
 </g>
-<text x="18" y="247" class="value">1.88</text><text x="18" y="267" class="small">per day</text>
-<text x="136" y="247" class="value">19</text><text x="136" y="267" class="small">best day</text>
-<text x="254" y="247" class="value">4</text><text x="254" y="267" class="small">current streak</text>
+<g><title>2026-11-15: 0 contributions</title>
+<path fill="#ebedf0" d="M399,174.0 l6,-3 6,3 -6,3 Z"/>
+<path fill="#ebedf0" d="M399,174.0 l6,3 v0.0 l-6,-3 Z"/>
+<path fill="#000" opacity=".18" d="M399,174.0 l6,3 v0.0 l-6,-3 Z"/>
+<path fill="#ebedf0" d="M405,177.0 l6,-3 v0.0 l-6,3 Z"/>
+<path fill="#000" opacity=".35" d="M405,177.0 l6,-3 v0.0 l-6,3 Z"/>
+</g>
+<text x="18" y="247" class="value">1.89</text><text x="18" y="267" class="small">per day</text>
+<text x="136" y="247" class="value">20</text><text x="136" y="267" class="small">best day</text>
+<text x="254" y="247" class="value">0</text><text x="254" y="267" class="small">current streak</text>
 <text x="372" y="247" class="value">4</text><text x="372" y="267" class="small">longest streak</text>
 </svg>
