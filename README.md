@@ -32,8 +32,11 @@ Here are some ideas to get you started:
 | Personal Site | 项目展示与实验记录 |
 
 **工具**
-Python · PyTorch · ROS · MuJoCo · Linux
-            
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,ros" alt="Python, PyTorch, ROS" height="36">
+  <img src="https://raw.githubusercontent.com/google-deepmind/mujoco/main/banner.png" alt="MuJoCo" height="36">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="36">
+</p>
 我的个人网站https://linx29853.github.io/
 
 
