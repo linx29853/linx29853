@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 | Personal Site | 项目展示与实验记录 |
 
 **工具**
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,ros" alt="Python, PyTorch, ROS" height="36">
-  <img src="https://raw.githubusercontent.com/google-deepmind/mujoco/main/banner.png" alt="MuJoCo" height="36">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="36">
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-0053D6?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
 我的个人网站https://linx29853.github.io/
 
 
